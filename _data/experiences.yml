@@ -1,5 +1,33 @@
 - experience:
-  role: Founder
+  role: Lead Developer
+  time: 2015 - Present
+  company: Startup Hubs, San Francisco
+  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
+  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
+  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
+  pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
+  <br> <br>
+  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
+  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+  architecto beatae vitae dicta sunt explicabo."
+- experience:
+  role: Senior Software Engineer
+  time: 2014 - 2015
+  company: Google, London
+  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
+  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
+  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
+  pellentesque eu, pretium quis, sem."
+- experience:
+  role: UI Developer
+  time: 2012 - 2014
+  company: Amazon, London
+  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
+  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
+  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
+  pellentesque eu, pretium quis, sem."
+- experience:
+  role: Founder, Manager, and Contributor
   time: May 2017 - Present
   company: Bincrafters.io - Open-Source Team
   details: "Since the Bincrafters was formed, I have been both the manager, and one of
@@ -10,7 +38,7 @@
   As manager, I have recruited 15 volunteer team members, and our team collectively has 
   created nearly 200 open-source Conan packages.
 - experience:
-  role: Founder - Lead Software Architect
+  role: Founder and Lead Software Architect
   time: December 2017 - Present
   company: AppAnywhere.io
   details: "AppAnywhere is a startup in it's first year of research and development.  As lead architect,
@@ -28,7 +56,7 @@
   for the web servers, advanced database monitoring for three database platforms, advanced log file
   monitoring, and application server monitoring for Oracle Weblogic and IBM Websphere."
 - experience:
-  role: Founder - Primary Consultant and Virtual CIO
+  role: Founder and Virtual CIO
   time: 2011-2014
   company: ConnectU Systems, Inc. 
   details: "As Virtual CIO to our business customers, I designed and executed all technology projects 
