@@ -2,7 +2,7 @@
   name: Groovy, Java 8, Gradle, Spock
   level: 85%
 - skill:
-  name: C#, .NET, Microsoft Azure PaaS, CosmosDB
+  name: C#, .NET, Microsoft Azure PaaS
   level: 65%
 - skill:
   name: C++
@@ -13,12 +13,4 @@
 - skill:
   name: Javascript, Electron
   level: 10%
-- skill:
-  name: Devops - Docker, Travis, Appveyor, Bintray
-  level: 95%
-- skill:
-  name: Functional Programming
-  level: 65%
-- skill:
-  name: Enterprise Information Technology
-  level: 95%
+
