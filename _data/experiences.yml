@@ -2,13 +2,14 @@
   role: Founder, Manager, Contributor
   time: May 2017 - Present
   company: Bincrafters.io - Open-Source Team
-  details: "Since the Bincrafters was formed, I have been both the manager, and one of
-  the top three package contributors. This involves creating, reviewing, and maintaining Conan.io 
-  recipes which are written in Python, and which build open-source C++ libraries into packages.  
-  It also involves configuring and managing the devops pipeline including Appveyor and Travis CI 
-  systems which to execute the recipes, and the public Conan repository on Bintray.com.
-  As manager, I have recruited 15 volunteer team members, and our team collectively has 
-  created nearly 200 open-source Conan packages.
+  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
+  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
+  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
+  pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
+  <br> <br>
+  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
+  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+  architecto beatae vitae dicta sunt explicabo."
 - experience:
   role: Senior Software Engineer
   time: 2014 - 2015
