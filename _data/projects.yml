@@ -1,0 +1,16 @@
+- project:
+  title: Bincrafters
+  link: "https://bintray.com/bincrafters"
+  tagline: "An OSS team dedicated to packaging C++ libraries using Conan.io, Travis CI, Appveyor, and Bintray."
+- project:
+  title: AppAnywhere
+  link: "http://www.appanywhere.io/"
+  tagline: "An startup building software-defined networking platform focused on managing inbound access to network services."
+- project:
+  title: Genius Monitoring
+  link: "https://www.getgsi.com/genius-advanced-monitoring"
+  tagline: "A cloud-connected suite of monitoring modules focused on enterprise application services and databases."
+- project:
+  title: Small Business Network and Cloud Consulting
+  link: "www.connectusystems.com"
+  tagline: "A company providing managed IT services focused on migrating legacy technology to cloud services."
