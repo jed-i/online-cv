@@ -1,9 +1,9 @@
 - interest:
-  item: Climbing
-  link:
+  item: Conan.io
+  link: https://www.conan.io/
 - interest:
-  item: Snowboarding
-  link:
+  item: Microsoft Azure
+  link: http://azure.microsoft.com/
 - interest:
-  item: Cooking
-  link:
+  item: Functional Reactive Programming
+  link: http://reactivex.io/

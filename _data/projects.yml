@@ -1,24 +1,16 @@
-- intro:
-  description: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
-
 - project:
-  title: Velocity
-  link: "#hook"
-  tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  title: Bincrafters
+  link: "https://bintray.com/bincrafters"
+  tagline: "An OSS team dedicated to packaging C++ libraries using Conan.io, Travis CI, Appveyor, and Bintray."
 - project:
-  title: DevStudio
-  link: "#"
-  tagline: "A responsive website template designed to help web developers/designers market their services."
+  title: AppAnywhere
+  link: "http://www.appanywhere.io/"
+  tagline: "An startup building software-defined networking platform focused on managing inbound access to network services."
 - project:
-  title: Tempo
-  link: "#"
-  tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  title: Genius Monitoring
+  link: "https://www.getgsi.com/genius-advanced-monitoring"
+  tagline: "A cloud-connected suite of monitoring modules focused on enterprise application services and databases."
 - project:
-  title: Atom
-  link: "#"
-  tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-- project:
-  title: Delta
-  link: "#"
-  tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  title: Small Business Network and Cloud Consulting
+  link: "www.connectusystems.com"
+  tagline: "A company providing managed IT services focused on migrating legacy technology to cloud services."
