@@ -2,7 +2,7 @@
   role: Founder, Manager, Contributor
   time: May 2017 - Present
   company: Bincrafters.io - Open-Source Team
-  details: ""Since the Bincrafters was formed, I have been both the manager, and one of
+  details: "Since the Bincrafters was formed, I have been both the manager, and one of
   the top three package contributors. This involves creating, reviewing, and maintaining Conan.io 
   recipes which are written in Python, and which build open-source C++ libraries into packages.  
   It also involves configuring and managing the devops pipeline including Appveyor and Travis CI 
