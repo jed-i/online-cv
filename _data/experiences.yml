@@ -2,27 +2,39 @@
   role: Founder, Manager, Contributor
   time: May 2017 - Present
   company: Bincrafters.io - Open-Source Team
-  details: "Since the Bincrafters was formed, I have been both the manager, and one of
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
-  <br> <br>
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-  architecto beatae vitae dicta sunt explicabo."
+  details: ""Since the Bincrafters was formed, I have been both the manager, and one of
+  the top three package contributors. This involves creating, reviewing, and maintaining Conan.io 
+  recipes which are written in Python, and which build open-source C++ libraries into packages.  
+  It also involves configuring and managing the devops pipeline including Appveyor and Travis CI 
+  systems which to execute the recipes, and the public Conan repository on Bintray.com.
+  As manager, I have recruited 15 volunteer team members, and our team collectively has 
+  created nearly 200 open-source Conan packages."
 - experience:
-  role: Senior Software Engineer
-  time: 2014 - 2015
-  company: Google, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: Founder and Lead Software Architect
+  time: December 2017 - Present
+  company: AppAnywhere.io
+  details: "AppAnywhere is a startup in it's first year of research and development.  As lead architect,
+  I designed the overall application strategy.  I developed the SAAS cloud-gateway and orchestration 
+  using Microsoft Azure Functions and CosmosDB, and led all technical design discussions with the 
+  web developer and C++ developers. I am also in charge of all other business operations."
 - experience:
-  role: UI Developer
-  time: 2012 - 2014
-  company: Amazon, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: Lead Monitoring Architect and Developer
+  time: 2014-2016
+  company: GSI, Inc. 
+  details: "As the monitoring architect, I led the research and development of the companies proprietary 
+  cloud-connected enterprise monitoring platform. After choosing the Java-based SAAS monitoring 
+  platform, I developed a suite of custom modules in Groovy.  These modules all targeted the enterprise 
+  services which comprise Oracle's ERP platform JD Edwards.  This included synthetic browser transactions 
+  for the web servers, advanced database monitoring for three database platforms, advanced log file
+  monitoring, and application server monitoring for Oracle Weblogic and IBM Websphere."
+- experience:
+  role: Founder and Virtual CIO
+  time: 2011-2014
+  company: ConnectU Systems, Inc. 
+  details: "As Virtual CIO to our business customers, I designed and executed all technology projects 
+  for more than 15 small and medium-sized businesses.  I also provided advanced network and cloud 
+  consulting to several national enterprise organizations.  I also managed a helpdesk team of 3, which
+  provided the tier 1 technical support to users, while I focused on executing larger migration projects. 
+  Migration projects often involved rolling out cloud services such as Microsoft Office 365 and Intune, 
+  providing advanced management of Sharepoint Online, and managing all basic office technology 
+  as Cisco network equipment, printers, VoIP, and VPN connectivity"
