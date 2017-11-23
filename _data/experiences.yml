@@ -2,21 +2,25 @@
   role: Founder, Manager, Contributor
   time: May 2017 - Present
   company: Bincrafters.io - Open-Source Team
-  details: "Since the Bincrafters was formed, I have been both the manager, and one of
-  the top three package contributors. This involves creating, reviewing, and maintaining Conan.io 
-  recipes which are written in Python, and which build open-source C++ libraries into packages.  
-  It also involves configuring and managing the devops pipeline including Appveyor and Travis CI 
+  details: "Bincrafters is an OSS team I formed for the purposes of creating and publishing C/C++
+  packages using the package manager Conan.io.  Since it's inception, I have been the manager and 
+  one of the top three package contributors. This involves creating, reviewing, and maintaining Conan.io 
+  recipes which are written in Python, and which build open-source C/C++ libraries into binary packages.  
+  It also involves configuring and managing an extensive devops pipeline including Appveyor and Travis CI 
   systems which to execute the recipes, and the public Conan repository on Bintray.com.
   As manager, I have recruited 15 volunteer team members, and our team collectively has 
-  created nearly 200 open-source Conan packages."
+  created and published nearly 200 popular C++ libraries as Conan packages."
 - experience:
   role: Founder and Lead Software Architect
   time: December 2017 - Present
   company: AppAnywhere.io
-  details: "AppAnywhere is a startup in it's first year of research and development.  As lead architect,
-  I designed the overall application strategy.  I developed the SAAS cloud-gateway and orchestration 
-  using Microsoft Azure Functions and CosmosDB, and led all technical design discussions with the 
-  web developer and C++ developers. I am also in charge of all other business operations."
+  details: "AppAnywhere is a cloud-connected networking startup I founded to address firewall-related
+  networking challenges which have persisted throughout my last 10 years of work in the field of advanced
+  networking and firewall management. It is currently in it's first year of research and development.  As 
+  lead architect, I designed the overall application architecture and strategy.  I developed the SAAS 
+  cloud-gateway and orchestration using an ASP.NET application deployed to Microsoft Azure Functions and
+  other Azure PAAS services.  I led all technical design discussions with the  web developer and C++ developers. 
+  I also manage all other business operations."
 - experience:
   role: Lead Monitoring Architect and Developer
   time: 2014-2016
