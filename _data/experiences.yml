@@ -7,8 +7,8 @@
   one of the top three package contributors. This involves creating, reviewing, and maintaining Conan.io 
   recipes which are written in Python, and which build open-source C/C++ libraries into binary packages.  
   It also involves configuring and managing an extensive devops pipeline including Appveyor and Travis CI 
-  systems which to execute the recipes, and the public Conan repository on Bintray.com.
-  As manager, I have recruited 15 volunteer team members, and our team collectively has 
+  systems which to execute the recipes, and the public Conan repository on Bintray where the packages
+  are hosted. As manager, I have recruited 15 volunteer team members, and our team collectively has 
   created and published nearly 200 popular C++ libraries as Conan packages."
 - experience:
   role: Founder and Lead Software Architect
