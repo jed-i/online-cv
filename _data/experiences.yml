@@ -20,7 +20,9 @@
   lead architect, I designed the overall application architecture and strategy.  I developed the SAAS 
   cloud-gateway and orchestration using an ASP.NET application deployed to Microsoft Azure Functions and
   other Azure PAAS services.  I led all technical design discussions with the  web developer and C++ developers. 
-  I also manage all other business operations."
+  I learned and automated the DevOps pipeline for creating and distributing binary application installers for both 
+  Windows and Linux, which included MSI, DEB, and RPM package and repository formats.  I also manage all 
+  other business operations."
 - experience:
   role: Lead Monitoring Architect and Developer
   time: 2014-2016
