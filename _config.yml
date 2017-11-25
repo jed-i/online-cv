@@ -14,7 +14,7 @@ style: styles-3
 name: Jerry Wiltse
 tagline: "Polyglot Developer :: Problem Solver"
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: "I am a software developer with an extensive background in enterprise and cloud-based technology.  I'm very active on github, as well as several developer communities (online and local).  I constantly seek out and engage other developers from whom I can learn new skills, techniques, and ways of thinking. My strengths include a high degree of empathy, a commitment to constant self-improvement, and a talent for finding the most efficient solutions to problems."
+summary: "I am a software developer with an extensive background in enterprise and cloud-based technology.  I'm very active on github, as well as several developer communities (online and local).  I constantly seek out and engage other developers from whom I can learn new skills, techniques, and ways of thinking. My strengths include my commitment to constant self-improvement, and a talent for finding the most efficient solutions to problems."
 
 #sidebar links
 email: jerrywiltse@gmail.com
