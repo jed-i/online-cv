@@ -1,8 +1,8 @@
 - skill:
-  name: Groovy, Java8, Gradle
-  level: 85%
-- skill:
   name: C#, .NET, Azure PaaS
+  level: 75%
+- skill:
+  name: Groovy, Java8, Gradle
   level: 65%
 - skill:
   name: C++
