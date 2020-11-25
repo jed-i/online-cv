@@ -13,7 +13,7 @@ style: styles-2
 #Profile information
 name: Jerry Wiltse
 tagline: Modern Polyglot Problem Solver
-pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: 'Seeking challenges that require creative solutions.'
 
 #sidebar links
