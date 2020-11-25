@@ -8,7 +8,7 @@
   It also involves configuring and managing the devops pipeline including Appveyor and Travis CI 
   systems which to execute the recipes, and the public Conan repository on Bintray.com.
   As manager, I have recruited 15 volunteer team members, and our team collectively has 
-  created nearly 200 open-source Conan packages.
+  created nearly 200 open-source Conan packages."
 - experience:
   role: Founder - Lead Software Architect
   time: December 2017 - Present
